@@ -38,8 +38,6 @@ I'm passionate about building web and desktop applications and continuously lear
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivaank21&layout=compact&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=vivaank21&theme=tokyonight)
-
 ---
 
 ## 📈 Contribution Graph
